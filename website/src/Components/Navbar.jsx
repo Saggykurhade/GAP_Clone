@@ -1,5 +1,4 @@
 import './navbar.css'
-import { FaGalacticRepublic, FaPause, FaSearch, FaShoppingBag } from 'react-icons/fa';
 
 const Navbar = () => {
 
@@ -62,30 +61,6 @@ const Navbar = () => {
                     </div>
                 </div>
 
-            </div>
-
-            <div style={{ height: '200px', width: '100%' }}>
-                <div style={{ marginRight: '83%', fontSize: '20px' }}>Black Friday Sale </div>
-                <span style={{ marginTop: '-15px', marginRight: '20%', fontSize: '90px' }}>40% Off On Everything</span>
-                <div style={{ marginRight: '79%', marginTop: '10px', fontSize: '13px' }}>Because its treat <i>everyone</i> season.</div>
-                <img style={{ marginLeft: '80%', marginTop: '-210px', height: '190px', width: '200px' }} src='https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPjGULxboM3FTRtZGWV7Z2jMJVc08OtaJJdQDTZYRXuq8YTEq8' />
-            </div>
-
-            <div className='navbar-3'>
-                <div className='nav3-left'>
-                    <p>WOMEN</p>
-                    <p>MATERNITY</p>
-                    <p>MEN</p>
-                    <p>GIRLS</p>
-                    <p>BOYS</p>
-                    <p>TODDLER GIRL</p>
-                    <p>TODDLER BOY</p>
-                    <p>BABY GIRL</p>
-                    <p>BABY BOY</p>
-                </div>
-                <div className='nav3-right'>
-                    <p style={{ marginLeft: '130px' }}>Applied at checkout. Excludes brand collaborations. <u>DETAILS</u></p>
-                </div>
             </div>
 
         </div>

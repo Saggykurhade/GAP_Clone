@@ -4,6 +4,7 @@
     /* border: 1px solid green; */
     background-color: black;
     color: white;
+    position: sticky;
 }
 
 .navbar-1 {
@@ -177,39 +178,4 @@
     margin-left: 5px;
     margin-right: 8px;
     margin-top: 5px;
-}
-
-.navbar-3 {
-    height: 55px;
-    width: 97%;
-    padding-left: 2.5%;
-    padding-right: 2.5%;
-    /* border: 1px solid red; */
-    background-color: #333333;
-    display: flex;
-    gap: 0px;
-    font-size: 12px;
-}
-
-.nav3-left {
-    height: 55px;
-    width: 65%;
-    /* border: 1px solid red; */
-    display: flex;
-    justify-content: space-between;
-}
-
-.nav3-left>p {
-    height: fit-content;
-    width: fit-content;
-    background-color: white;
-    padding: 5px 2px;
-    margin: 0%;
-    align-self: center;
-}
-
-.nav3-right>p {
-    font-size: 10px;
-    color: grey;
-    margin-top: 30px;
 }
