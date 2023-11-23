@@ -102,6 +102,7 @@ const Homepage = () => {
             </div>
           </div>
         </div>
+
         <div className='home-body2'>
           <h2 className='body2-h2'>Black Friday Deals You'll Love</h2>
           <div className='body2-5photos'>
@@ -147,49 +148,55 @@ const Homepage = () => {
               </div>
               <p className='photos8-desc'><u>WOMEN</u> +</p>
             </div>
+
             <div>
               <div className='photos8-img'>
                 <img src='https://gapprod.a.bigcontent.io/v1/static/HOL235662_Men_DESK' />
               </div>
               <p className='photos8-desc'><u>MEN</u></p>
             </div>
+
             <div>
               <div className='photos8-img'>
                 <img src='https://gapprod.a.bigcontent.io/v1/static/HOL235662_Girls_DESK' />
               </div>
               <p className='photos8-desc'><u>GIRLS</u></p>
             </div>
+
             <div>
               <div className='photos8-img'>
                 <img src='https://gapprod.a.bigcontent.io/v1/static/HOL235662_Boys_DESK' />
               </div>
               <p className='photos8-desc'><u>BOYS</u></p>
             </div>
+
             <div>
               <div className='photos8-img'>
                 <img src='https://gapprod.a.bigcontent.io/v1/static/HOL235662_ToddlerGirl_DESK' />
               </div>
               <p className='photos8-desc'><u>TODDLER GIRL</u></p>
             </div>
+
             <div>
               <div className='photos8-img'>
                 <img src='https://gapprod.a.bigcontent.io/v1/static/HOL235662_ToddlerBoy_DESK' />
               </div>
               <p className='photos8-desc'><u>TODDLER BOY</u></p>
             </div>
+
             <div>
               <div className='photos8-img'>
                 <img src='https://gapprod.a.bigcontent.io/v1/static/HOL235662_BabyGirl_DESK' />
               </div>
               <p className='photos8-desc'><u>BABY GIRL</u></p>
             </div>
+
             <div>
               <div className='photos8-img'>
                 <img src='https://gapprod.a.bigcontent.io/v1/static/HOL235662_BabyBoy_DESK  ' />
               </div>
               <p className='photos8-desc'><u>BABY BOY</u></p>
             </div>
-
           </div>
         </div>
 

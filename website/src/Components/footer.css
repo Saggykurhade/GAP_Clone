@@ -1,0 +1,118 @@
+.footer-screen {
+    width: 100%;
+    height: 580px;
+    /* border: 1px solid red; */
+    background-color: black;
+    color: white;
+}
+
+.footer-1 {
+    width: 100%;
+    height: 47%;
+    /* border: 1px solid white; */
+    padding-top: 120px;
+    border-bottom: 1px solid white;
+}
+
+.footer1-body {
+    width: 95%;
+    height: 85%;
+    /* border: 1px solid white; */
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.footer1-1 {
+    width: 26%;
+    height: 100%;
+    /* border: 1px solid blue; */
+}
+
+.footer1-1 > h2 {
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.footer-email {
+    width: 100%;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid white;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.footer-email > input {
+    background-color: black;
+    outline: none;
+    border: none;
+    font-size: 18px;
+}
+
+.footer-email > input::placeholder {
+    color: white;
+}
+
+.footer-email > button {
+    width: 85px;
+    height: 55px;
+    border-radius: 0%;
+    border: none;
+    outline: none;
+    margin-top: -20px;
+    padding-left: 7px;
+    padding-top: 7px;
+    color: grey;
+    font-size: 19px;
+}
+
+.footer1-2 {
+    width: 20%;
+    height: 100%;
+    /* border: 1px solid blue; */
+    margin-left: -20px;
+}
+
+.footer1-3 {
+    width: 20%;
+    height: 100%;
+    /* border: 1px solid blue; */
+    margin-left: -20px;
+}
+
+.footer1-4 {
+    width: 16%;
+    height: 100%;
+    /* border: 1px solid blue; */
+}
+
+.footer1-4 > h2 {
+    margin-top: 10px;
+}
+
+.footer-header {
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding-bottom: 10px;
+}
+
+.footer1-2,
+.footer1-3,
+.footer1-4 > p {
+    font-size: 18px;
+    line-height: 14px;
+}
+
+.footer-2-p {
+    text-align: left;
+    margin-inline-start: 30px;
+    margin-block-start: 40px;
+    font-size: 18px;
+    margin-inline-end: 80px;
+    letter-spacing: 0.66px;
+}
