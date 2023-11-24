@@ -5,6 +5,7 @@ const Footer = () => {
   return (
     
     <div className='footer-screen'>
+      
       <div className='footer-1'>
         <div className='footer1-body'>
           <div className='footer1-1'>
